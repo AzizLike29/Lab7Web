@@ -1,0 +1,95 @@
+CRITICAL - 2023-05-08 11:39:44 --> The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 226.
+ 1 SYSTEMPATH\CodeIgniter.php(226): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(190): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH\index.php(55): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2023-05-08 11:39:56 --> The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 226.
+ 1 SYSTEMPATH\CodeIgniter.php(226): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(190): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH\index.php(55): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2023-05-08 11:40:05 --> The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 226.
+ 1 SYSTEMPATH\CodeIgniter.php(226): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(190): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH\index.php(55): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2023-05-08 09:49:01 --> The framework needs the following extension(s) installed and loaded: intl, mbstring.
+in SYSTEMPATH\CodeIgniter.php on line 226.
+ 1 SYSTEMPATH\CodeIgniter.php(226): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl, mbstring')
+ 2 SYSTEMPATH\CodeIgniter.php(190): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 ROOTPATH\spark(83): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2023-05-08 09:52:08 --> The framework needs the following extension(s) installed and loaded: intl, mbstring.
+in SYSTEMPATH\CodeIgniter.php on line 226.
+ 1 SYSTEMPATH\CodeIgniter.php(226): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl, mbstring')
+ 2 SYSTEMPATH\CodeIgniter.php(190): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 ROOTPATH\spark(83): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2023-05-08 12:47:12 --> The framework needs the following extension(s) installed and loaded: intl, mbstring.
+in SYSTEMPATH\CodeIgniter.php on line 226.
+ 1 SYSTEMPATH\CodeIgniter.php(226): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl, mbstring')
+ 2 SYSTEMPATH\CodeIgniter.php(190): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 ROOTPATH\spark(83): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2023-05-08 14:52:01 --> The framework needs the following extension(s) installed and loaded: intl, mbstring.
+in SYSTEMPATH\CodeIgniter.php on line 226.
+ 1 SYSTEMPATH\CodeIgniter.php(226): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl, mbstring')
+ 2 SYSTEMPATH\CodeIgniter.php(190): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 ROOTPATH\spark(83): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2023-05-08 14:58:55 --> The framework needs the following extension(s) installed and loaded: intl, mbstring.
+in SYSTEMPATH\CodeIgniter.php on line 226.
+ 1 SYSTEMPATH\CodeIgniter.php(226): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl, mbstring')
+ 2 SYSTEMPATH\CodeIgniter.php(190): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 ROOTPATH\spark(83): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2023-05-08 16:25:12 --> The framework needs the following extension(s) installed and loaded: intl, mbstring.
+in SYSTEMPATH\CodeIgniter.php on line 226.
+ 1 SYSTEMPATH\CodeIgniter.php(226): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl, mbstring')
+ 2 SYSTEMPATH\CodeIgniter.php(190): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 ROOTPATH\spark(83): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2023-05-08 16:36:43 --> The framework needs the following extension(s) installed and loaded: intl, mbstring.
+in SYSTEMPATH\CodeIgniter.php on line 226.
+ 1 SYSTEMPATH\CodeIgniter.php(226): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl, mbstring')
+ 2 SYSTEMPATH\CodeIgniter.php(190): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 ROOTPATH\spark(83): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2023-05-08 16:42:36 --> The framework needs the following extension(s) installed and loaded: intl, mbstring.
+in SYSTEMPATH\CodeIgniter.php on line 226.
+ 1 SYSTEMPATH\CodeIgniter.php(226): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl, mbstring')
+ 2 SYSTEMPATH\CodeIgniter.php(190): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 ROOTPATH\spark(83): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2023-05-08 16:47:24 --> The framework needs the following extension(s) installed and loaded: intl, mbstring.
+in SYSTEMPATH\CodeIgniter.php on line 226.
+ 1 SYSTEMPATH\CodeIgniter.php(226): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl, mbstring')
+ 2 SYSTEMPATH\CodeIgniter.php(190): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 ROOTPATH\spark(83): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2023-05-08 16:49:53 --> The framework needs the following extension(s) installed and loaded: intl, mbstring.
+in SYSTEMPATH\CodeIgniter.php on line 226.
+ 1 SYSTEMPATH\CodeIgniter.php(226): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl, mbstring')
+ 2 SYSTEMPATH\CodeIgniter.php(190): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 ROOTPATH\spark(83): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2023-05-08 16:53:15 --> The framework needs the following extension(s) installed and loaded: intl, mbstring.
+in SYSTEMPATH\CodeIgniter.php on line 226.
+ 1 SYSTEMPATH\CodeIgniter.php(226): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl, mbstring')
+ 2 SYSTEMPATH\CodeIgniter.php(190): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 ROOTPATH\spark(83): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2023-05-08 16:54:22 --> The framework needs the following extension(s) installed and loaded: intl, mbstring.
+in SYSTEMPATH\CodeIgniter.php on line 226.
+ 1 SYSTEMPATH\CodeIgniter.php(226): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl, mbstring')
+ 2 SYSTEMPATH\CodeIgniter.php(190): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 ROOTPATH\spark(83): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2023-05-08 17:04:00 --> The framework needs the following extension(s) installed and loaded: intl, mbstring.
+in SYSTEMPATH\CodeIgniter.php on line 226.
+ 1 SYSTEMPATH\CodeIgniter.php(226): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl, mbstring')
+ 2 SYSTEMPATH\CodeIgniter.php(190): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 ROOTPATH\spark(83): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2023-05-08 17:07:07 --> The framework needs the following extension(s) installed and loaded: intl, mbstring.
+in SYSTEMPATH\CodeIgniter.php on line 226.
+ 1 SYSTEMPATH\CodeIgniter.php(226): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl, mbstring')
+ 2 SYSTEMPATH\CodeIgniter.php(190): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 ROOTPATH\spark(83): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2023-05-08 17:19:09 --> The framework needs the following extension(s) installed and loaded: intl, mbstring.
+in SYSTEMPATH\CodeIgniter.php on line 226.
+ 1 SYSTEMPATH\CodeIgniter.php(226): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl, mbstring')
+ 2 SYSTEMPATH\CodeIgniter.php(190): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 ROOTPATH\spark(83): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2023-05-08 17:41:35 --> The framework needs the following extension(s) installed and loaded: intl, mbstring.
+in SYSTEMPATH\CodeIgniter.php on line 226.
+ 1 SYSTEMPATH\CodeIgniter.php(226): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl, mbstring')
+ 2 SYSTEMPATH\CodeIgniter.php(190): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 ROOTPATH\spark(83): CodeIgniter\CodeIgniter->initialize()

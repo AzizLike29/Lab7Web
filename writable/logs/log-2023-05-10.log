@@ -1,0 +1,361 @@
+CRITICAL - 2023-05-10 12:40:12 --> Invalid file: "about.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('about.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('about', [], true)
+ 3 APPPATH\Controllers\page.php(10): view('about', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Page->about()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Page))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-10 12:40:50 --> Invalid file: "about.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('about.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('about', [], true)
+ 3 APPPATH\Controllers\page.php(10): view('about', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Page->about()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Page))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-10 12:41:24 --> Invalid file: "about.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('about.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('about', [], true)
+ 3 APPPATH\Controllers\page.php(10): view('about', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Page->about()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Page))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-10 12:41:34 --> Invalid file: "about.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('about.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('about', [], true)
+ 3 APPPATH\Controllers\page.php(10): view('about', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Page->about()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Page))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-10 12:55:24 --> Invalid file: "about.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('about.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('about', [], true)
+ 3 APPPATH\Controllers\page.php(10): view('about', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Page->about()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Page))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-10 12:57:00 --> Invalid file: "about.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('about.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('about', [], true)
+ 3 APPPATH\Controllers\page.php(10): view('about', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Page->about()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Page))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-10 12:57:04 --> Invalid file: "about.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('about.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('about', [], true)
+ 3 APPPATH\Controllers\page.php(10): view('about', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Page->about()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Page))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-10 12:58:14 --> Invalid file: "about.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('about.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('about', [], true)
+ 3 APPPATH\Controllers\page.php(10): view('about', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Page->about()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Page))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-10 12:58:31 --> Invalid file: "about.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('about.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('about', [], true)
+ 3 APPPATH\Controllers\page.php(10): view('about', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Page->about()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Page))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-10 12:58:33 --> Invalid file: "about.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('about.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('about', [], true)
+ 3 APPPATH\Controllers\page.php(10): view('about', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Page->about()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Page))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-10 13:00:35 --> Invalid file: "about.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('about.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('about', [], true)
+ 3 APPPATH\Controllers\page.php(10): view('about', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Page->about()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Page))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-10 13:00:35 --> Invalid file: "about.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('about.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('about', [], true)
+ 3 APPPATH\Controllers\page.php(10): view('about', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Page->about()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Page))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-10 13:02:09 --> Invalid file: "about.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('about.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('about', [], true)
+ 3 APPPATH\Controllers\page.php(10): view('about', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Page->about()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Page))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-10 13:02:13 --> Invalid file: "about.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('about.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('about', [], true)
+ 3 APPPATH\Controllers\page.php(10): view('about', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Page->about()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Page))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-10 13:02:14 --> Invalid file: "about.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('about.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('about', [], true)
+ 3 APPPATH\Controllers\page.php(10): view('about', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Page->about()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Page))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-10 13:03:43 --> Invalid file: "about.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('about.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('about', [], true)
+ 3 APPPATH\Controllers\page.php(10): view('about', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Page->about()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Page))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-10 13:03:45 --> Invalid file: "about.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('about.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('about', [], true)
+ 3 APPPATH\Controllers\page.php(10): view('about', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Page->about()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Page))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-10 13:03:46 --> Invalid file: "about.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('about.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('about', [], true)
+ 3 APPPATH\Controllers\page.php(10): view('about', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Page->about()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Page))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-10 13:03:47 --> Invalid file: "about.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('about.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('about', [], true)
+ 3 APPPATH\Controllers\page.php(10): view('about', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Page->about()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Page))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-10 13:03:47 --> Invalid file: "about.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('about.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('about', [], true)
+ 3 APPPATH\Controllers\page.php(10): view('about', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Page->about()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Page))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-10 13:03:48 --> Invalid file: "about.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('about.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('about', [], true)
+ 3 APPPATH\Controllers\page.php(10): view('about', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Page->about()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Page))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-10 13:03:48 --> Invalid file: "about.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('about.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('about', [], true)
+ 3 APPPATH\Controllers\page.php(10): view('about', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Page->about()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Page))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-10 13:03:49 --> Invalid file: "about.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('about.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('about', [], true)
+ 3 APPPATH\Controllers\page.php(10): view('about', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Page->about()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Page))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-10 13:03:49 --> Invalid file: "about.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('about.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('about', [], true)
+ 3 APPPATH\Controllers\page.php(10): view('about', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Page->about()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Page))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-10 13:03:49 --> Invalid file: "about.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('about.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('about', [], true)
+ 3 APPPATH\Controllers\page.php(10): view('about', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Page->about()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Page))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-10 13:03:50 --> Invalid file: "about.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('about.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('about', [], true)
+ 3 APPPATH\Controllers\page.php(10): view('about', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Page->about()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Page))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-10 13:03:50 --> Invalid file: "about.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('about.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('about', [], true)
+ 3 APPPATH\Controllers\page.php(10): view('about', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Page->about()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Page))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-10 13:03:50 --> Invalid file: "about.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('about.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('about', [], true)
+ 3 APPPATH\Controllers\page.php(10): view('about', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Page->about()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Page))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-10 13:10:49 --> Invalid file: "about.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('about.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('about', [], true)
+ 3 APPPATH\Controllers\page.php(10): view('about', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Page->about()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Page))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-10 13:10:51 --> Invalid file: "about.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('about.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('about', [], true)
+ 3 APPPATH\Controllers\page.php(10): view('about', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Page->about()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Page))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-10 13:12:54 --> Invalid file: "about.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('about.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('about', [], true)
+ 3 APPPATH\Controllers\page.php(10): view('about', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Page->about()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Page))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-10 13:12:55 --> Invalid file: "about.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('about.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('about', [], true)
+ 3 APPPATH\Controllers\page.php(10): view('about', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Page->about()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Page))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-10 13:14:29 --> Invalid file: "about.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('about.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('about', [], true)
+ 3 APPPATH\Controllers\page.php(10): view('about', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Page->about()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Page))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-10 13:14:30 --> Invalid file: "about.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('about.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('about', [], true)
+ 3 APPPATH\Controllers\page.php(10): view('about', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Page->about()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Page))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-10 13:14:31 --> Invalid file: "about.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('about.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('about', [], true)
+ 3 APPPATH\Controllers\page.php(10): view('about', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Page->about()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Page))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-10 13:14:32 --> Invalid file: "about.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('about.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('about', [], true)
+ 3 APPPATH\Controllers\page.php(10): view('about', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Page->about()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Page))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-10 13:14:33 --> Invalid file: "about.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('about.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('about', [], true)
+ 3 APPPATH\Controllers\page.php(10): view('about', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Page->about()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Page))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-10 13:15:54 --> Invalid file: "about.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('about.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('about', [], true)
+ 3 APPPATH\Controllers\page.php(10): view('about', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Page->about()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Page))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-10 13:22:39 --> Invalid file: "about.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('about.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('about', [], true)
+ 3 APPPATH\Controllers\page.php(10): view('about', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Page->about()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Page))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-10 17:27:37 --> Invalid file: "arcticle.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('arcticle.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('arcticle', [], true)
+ 3 APPPATH\Controllers\page.php(32): view('arcticle', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Page->article()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Page))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\lab7\\ci4\\public\\index.php')

@@ -1,0 +1,269 @@
+* {
+  font-family: sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  outline: none;
+  border: none;
+  text-decoration: none;
+  transition: all 0.2s linear;
+}
+
+body {
+  max-width: 1000px;
+  position: relative;
+  overflow-x: hidden;
+  margin: auto;
+  box-shadow: 0 0 20px #979797;
+  background-color: antiquewhite;
+}
+
+article.entry {
+  padding: 10px;
+  background-color: rgb(249, 184, 138);
+  text-align: center;
+}
+
+img.image-circle {
+  margin-right: 130px;
+}
+
+#container {
+  margin: 10px;
+}
+
+#container > header > h1 {
+  color: grey;
+  padding: 20px;
+}
+
+#container > .topnav {
+  background-color: chocolate;
+  overflow: hidden;
+  margin: 18px;
+}
+
+.topnav > a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav > a:hover {
+  background-color: #ddd;
+  color: rgba(255, 127, 80, 0.539);
+}
+
+.topnav > a.active {
+  background-color: rgba(255, 127, 80, 0.539);
+  color: rgb(255, 255, 255);
+}
+
+#container > #hero {
+  padding: 40px 30px;
+  background-color: rgb(249, 184, 138);
+  margin: 18px;
+}
+
+#container > #hero h2 {
+  margin-bottom: 10px;
+}
+
+#h2 {
+  font-size: 28px;
+  margin-bottom: 10px;
+  color: #666565;
+}
+
+#hero > p {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 7mm;
+}
+
+#hero > button {
+  height: 40px;
+  margin-top: 20px;
+  background-color: chocolate;
+  padding: 0 20px;
+  padding-bottom: 4px;
+  border-radius: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  cursor: pointer;
+  transition: all 0.3s;
+}
+
+#hero > button:hover {
+  transform: scale(1.05, 1.05);
+}
+
+.avatar {
+  vertical-align: middle;
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+}
+
+#container .wrapper {
+  display: flex;
+  padding: 20px;
+  gap: 20px;
+}
+
+#container .wrapper .main {
+  width: 100%;
+}
+
+.wrapper .main .cards {
+  display: flex;
+  gap: 15px;
+}
+
+.wrapper .main .cards .card {
+  padding: 10px 30px;
+  background-color: rgba(255, 127, 80, 0.539);
+  text-align: center;
+  width: 180px;
+  border-radius: 5px;
+}
+
+.wrapper .main .cards .card:hover {
+  background-color: rgba(255, 127, 80, 0.982);
+  cursor: pointer;
+}
+
+.wrapper .main .cards .card .card-content {
+  padding: 7px;
+}
+
+.wrapper .main .cards .card .card-content button {
+  height: 40px;
+  margin: 20px auto 0px auto;
+  color: black;
+  background-color: chocolate;
+  padding: 10px 20px;
+  border-radius: 4%;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  cursor: pointer;
+  transition: all 0.3s;
+}
+
+.wrapper .main .cards .card .card-content button:hover {
+  background-color: rgb(249, 184, 138);
+  cursor: pointer;
+}
+
+.contents {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  background-color: cornsilk;
+}
+
+.content {
+  display: flex;
+  gap: 20px;
+}
+
+.line {
+  width: 100%;
+  height: 1px;
+  background-color: chocolate;
+  margin: 20px 0;
+}
+
+.sidebar {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+}
+
+.text,
+.link {
+  display: flex;
+  flex-direction: column;
+}
+
+.text h3,
+.link h3 {
+  padding: 5px 10px;
+  background-color: rgb(249, 184, 138);
+}
+
+.text p,
+.link a {
+  padding: 5px 10px;
+  border-right: 1px solid chocolate;
+  border-left: 1px solid chocolate;
+  border-bottom: 1px solid chocolate;
+  color: #000;
+  text-transform: capitalize;
+  background-color: cornsilk;
+}
+
+#about {
+  background-color: rgb(249, 184, 138);
+  padding: 50px 20px;
+  margin-bottom: 20px;
+}
+#about h1 {
+  font-size: 35px;
+  position: relative;
+  text-align: center;
+}
+#about p {
+  font-size: 18px;
+  padding: 20px;
+  line-height: 25px;
+  position: relative;
+  text-align: center;
+}
+
+#contact {
+  background-color: rgba(255, 127, 80, 0.539);
+  padding: 20px 20px;
+  margin-bottom: 20px;
+}
+.input,
+.msg,
+.area {
+  width: 100%;
+  padding: 10px;
+  border: 2px solid chocolate;
+  box-sizing: border-box;
+  font-size: 15px;
+  margin-bottom: 20px;
+}
+button {
+  font-size: 14px;
+  background-color: chocolate;
+  color: white;
+  border-radius: 5px;
+  padding: 10px 20px;
+  margin-top: 8x;
+  font-family: sans-serif;
+}
+button :hover {
+  opacity: 0, 9;
+}
+
+footer {
+  background-color: chocolate;
+  padding: 5px 20px;
+  color: white;
+  margin: 18px;
+  border-radius: 3px;
+}
+
+footer p a {
+  color: white;
+}
