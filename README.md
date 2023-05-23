@@ -24,6 +24,8 @@ Lengkapi kode program untuk menu lainnya yang ada pada Controller Page, sehingga
 
 <h2> Praktikum 8 : Framework Lanjutan (CRUD) </h2>
 
+Selesaikan programnya sesuai Langkah-langkah yang ada. Anda boleh melakukan improvisasi.
+
 <h3> 4. Mengaktifkan kembali di shell XAMPP http://localhost:8080/ dengan cara : </h3>
 
 cd [nama projek]
