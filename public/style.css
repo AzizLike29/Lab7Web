@@ -9,6 +9,10 @@
   transition: all 0.2s linear;
 }
 
+a {
+  color: #000 !important;
+}
+
 body {
   max-width: 1000px;
   position: relative;
