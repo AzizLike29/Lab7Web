@@ -158,4 +158,40 @@ Selanjutnya akses pada tampilan header masing - masing
 
 ![20](https://github.com/AzizLike29/Lab7Web/assets/119909214/d13ce4ec-a0e7-4aaa-b9f1-8263de31f4da)
 
+<h2> Praktikum 8 : Framework Lanjutan (CRUD) </h2>
+
+11. Mengaktifkan kembali di shell XAMPP http://localhost:8080/ dengan cara :
+
+cd [nama projek]
+
+php spark
+
+php spark serve
+
+![1](https://github.com/AzizLike29/Lab7Web/assets/119909214/85443b21-62c6-4349-9d46-7c669968dec2)
+
+12. Membuat database di phpMyAdmin dengan menambahkan tabel artikel beserta isinya.
+
+![2](https://github.com/AzizLike29/Lab7Web/assets/119909214/a784148f-141d-4355-880d-e6c6e44c2e79)
+
+13. Selanjutnya masuk ke halaman admin dengan mengakses http://localhost:8080/admin/artikel/ berikut tampilannya :
+
+![3](https://github.com/AzizLike29/Lab7Web/assets/119909214/c0d84679-211a-44f1-97e8-1b826f5c37a1)
+
+14. Dapat melakukan pencarian data di halaman admin, lalu klik tombol cari.
+
+![4](https://github.com/AzizLike29/Lab7Web/assets/119909214/5362183b-66ac-4ce1-b3fc-e4272562abdf)
+
+15. Kemudian bisa melakukan ubah data dengan klik tombolnya, lalu ubah sesuai keinginan.
+
+![5](https://github.com/AzizLike29/Lab7Web/assets/119909214/2169121c-acea-4f10-af4b-42aabea3dc2d)
+
+16. Setelah itu kita klik navbar artikel dan langsung masuk ke halaman beserta konten yang sudah dibuat.
+
+![6](https://github.com/AzizLike29/Lab7Web/assets/119909214/04659ad9-3844-4d0e-8eb3-7055ac673ca1)
+
+17. Dapat melakukan tambah artikel dengan klik navbar bagian atas, lalu tambah artikel sesuai keinginan.
+
+![7](https://github.com/AzizLike29/Lab7Web/assets/119909214/54f5cf35-ab61-4056-8e03-d7b7f0774db1)
+
 <p> Sekian dan Terima Kasih </p>
