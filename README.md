@@ -54,7 +54,7 @@ php spark serve
 
 <h3> 9. Setelah itu kita klik navbar artikel dan langsung masuk ke halaman beserta konten yang sudah dibuat. </h3>
 
-![6](https://github.com/AzizLike29/Lab7Web/assets/119909214/04659ad9-3844-4d0e-8eb3-7055ac673ca1)
+![6](https://github.com/AzizLike29/Lab7Web/assets/119909214/030caa9c-9936-4122-80c9-a5fed518de5c)
 
 <h3> 10. Dapat melakukan tambah artikel dengan klik navbar bagian atas, lalu tambah artikel sesuai keinginan. </h3>
 
