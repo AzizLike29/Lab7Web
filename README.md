@@ -66,7 +66,7 @@ Selesaikan programnya sesuai Langkah-langkah yang ada. Anda boleh melakukan impr
 
 <h3> 11. Tambahkan tabel pada database lab_ci4 dengan nama user. </h3>
 
-![11](https://github.com/AzizLike29/Lab7Web/assets/119909214/4ed43155-aca7-4959-9b9f-6d6e71c46f3d)
+![11](https://github.com/AzizLike29/Lab7Web/assets/119909214/3efbafc8-b04b-4d23-b773-be1f8a1f9826)
 
 <h3> 12. Berikut merupakan tampilan halaman login : </h3>
 
