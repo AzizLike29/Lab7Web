@@ -1,0 +1,77 @@
+/* reset css login */
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  line-height: 1;
+  font-size: 100%;
+  font-family: "Times New Roman", Times, sans-serif;
+  color: white;
+  padding: 50px;
+  background-color: antiquewhite;
+}
+
+#login-wrapper {
+  align-items: center;
+  background-image: url(background.jpg);
+  background-position: center;
+  background-size: 85%;
+  width: 400px;
+  margin: 10px;
+  margin-left: 30%;
+  margin-top: 50px;
+  padding: 30px;
+  border-radius: 10px;
+  box-shadow: 0 0 1em #cccccc;
+}
+
+/* bagian isi dari login */
+h1 {
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.form-control {
+  width: 100%;
+  padding: 10px;
+  border: 2px solid chocolate;
+  box-sizing: border-box;
+  font-size: 15px;
+  margin-bottom: 15px;
+}
+
+label.form-label {
+  color: black;
+  font-size: 18px;
+  width: 100px;
+  margin-bottom: 10px;
+}
+
+.form-control {
+  color: chocolate;
+  border-radius: 5px;
+}
+
+.alert-danger {
+  width: max-content;
+  background-color: red;
+  border-radius: 10px;
+  padding: 15px 20px;
+}
+
+button[type="submit"] {
+  padding: 7px;
+  color: brown;
+  background-color: rgb(233, 215, 144);
+  box-sizing: border-box;
+  font-size: 15px;
+  border-radius: 2px;
+  width: 15%;
+}
+
+button[type="submit"]:active,
+button[type="submit"]:hover {
+  opacity: 75%;
+  background-color: aliceblue;
+}
