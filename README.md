@@ -60,4 +60,44 @@ php spark serve
 
 ![7](https://github.com/AzizLike29/Lab7Web/assets/119909214/54f5cf35-ab61-4056-8e03-d7b7f0774db1)
 
+<h2> Praktikum 9 : Framework Lanjutan (Modul Login) </h2>
+
+Selesaikan programnya sesuai Langkah-langkah yang ada. Anda boleh melakukan improvisasi.
+
+<h3> 11. Tambahkan tabel pada database lab_ci4 dengan nama user. </h3>
+
+![11](https://github.com/AzizLike29/Lab7Web/assets/119909214/4ed43155-aca7-4959-9b9f-6d6e71c46f3d)
+
+<h3> 12. Berikut merupakan tampilan halaman login : </h3>
+
+![12](https://github.com/AzizLike29/Lab7Web/assets/119909214/7dc61aca-9244-42df-8cc6-26c345225143)
+
+<h3> 13. setelah itu isi dengan email dan password yang sesuai pada tabel user, sedangkan password_hash sebagai keterangan : </h3>
+
+Dalam PHP, fungsi password_hash() digunakan untuk mengamankan atau mengenkripsi kata sandi (password) pengguna.
+
+Tujuan utamanya adalah untuk melindungi kata sandi pengguna dengan cara yang aman.
+
+Jika penulisan password tidak sesuai yang ada di database maka muncul notif danger/password salah.
+
+Passwordnya adalah "admin123"
+
+![13](https://github.com/AzizLike29/Lab7Web/assets/119909214/4cf1f87c-14b1-4545-a979-2c53b7723ba4)
+
+<h3> 14. Isikan email dan password dengan benar, lalu klik login : </h3>
+
+![14](https://github.com/AzizLike29/Lab7Web/assets/119909214/15f7bf40-bfc6-4741-89cd-3d991c8a0b68)
+
+<h3> 15. Berhasil masuk ke tampilan halaman admin makanan. </h3>
+
+![15](https://github.com/AzizLike29/Lab7Web/assets/119909214/399dccda-0412-4188-8bb1-fafc270ed656)
+
+<h3> 16. Kemudian terdapat menu atas logout, jika tidak memerlukan akses web tersebut dan klik : </h3>
+
+![16](https://github.com/AzizLike29/Lab7Web/assets/119909214/9fb4e6a0-4108-4194-9df8-e7e708609ee5)
+
+<h3> 16. Kembali ke tampilan halaman login, selamat mencoba :) </h3>
+
+![17](https://github.com/AzizLike29/Lab7Web/assets/119909214/32ba8b40-6778-4efe-a5ca-ebf03270209d)
+
 <p> Sekian dan Terima Kasih </p>
