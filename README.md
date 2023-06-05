@@ -96,7 +96,7 @@ Passwordnya adalah "admin123"
 
 ![16](https://github.com/AzizLike29/Lab7Web/assets/119909214/9fb4e6a0-4108-4194-9df8-e7e708609ee5)
 
-<h3> 16. Kembali ke tampilan halaman login, selamat mencoba :) </h3>
+<h3> 16. Kembali ke tampilan halaman login </h3>
 
 ![17](https://github.com/AzizLike29/Lab7Web/assets/119909214/32ba8b40-6778-4efe-a5ca-ebf03270209d)
 
