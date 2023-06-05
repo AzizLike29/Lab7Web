@@ -119,6 +119,7 @@ lanjut pilih nomer :
 Buka folder dan file app/Controllers/Artikel.php lalu ubah pada function admin_index paginate ubah menjadi 10 yang tadinya 1.
 
 1 --> Memperkecil halaman page
+
 10 --> Memperluas halaman page
 
 Kemudian lakukan pencarian dengan kata kunci harus judul makanan & minuman yang harus di cari, contohnya :
@@ -140,5 +141,9 @@ Selanjutnya, saya menambahkan upload file data/choose file, tambahkan data sesua
 Lalu klik navbar article, data berhasil ditambahkan :)
 
 ![23](https://github.com/AzizLike29/Lab7Web/assets/119909214/16d9875a-f0d2-4770-abbd-6e16e1b8cfea)
+
+Data sudah masuk ke dalam database phpmyadmin.
+
+![24](https://github.com/AzizLike29/Lab7Web/assets/119909214/0f89c743-33f0-482a-a888-c66e83b4759f)
 
 <p> Sekian dan Terima Kasih </p>
