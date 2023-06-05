@@ -77,9 +77,11 @@ tr:hover {
   font-size: 15px;
   background: #00b3a8 url("ubah.png") no-repeat 6px 10px;
   color: white;
+  margin-right: 0.8rem;
   border-radius: 5px;
   padding: 10px 23px;
-  margin-top: 8x;
+  text-align: center;
+  margin-top: 8px;
   text-decoration: none;
 }
 
@@ -89,7 +91,7 @@ tr:hover {
   color: white;
   border-radius: 5px;
   padding: 10px 23px;
-  margin-top: 8x;
+  margin-top: 8px;
   text-decoration: none;
 }
 
@@ -120,15 +122,17 @@ input[type="text"] {
 input[type="submit"] {
   padding: 10px;
   background-color: rgb(233, 215, 144);
-  color: white;
+  color: chocolate;
   box-sizing: border-box;
   font-size: 15px;
   margin: 20px;
+  border-radius: 4px;
 }
 
 input[type="submit"]:active,
 input[type="submit"]:hover {
   opacity: 80%;
+  background-color: azure;
 }
 
 h2 {
@@ -156,11 +160,13 @@ h2 {
   padding: 0.5rem 0.75rem;
   margin-left: -1px;
   line-height: 1.5;
-  color: rgb(249, 184, 138);
+  color: #fff;
   text-decoration: none;
-  background-color: #fff;
-  border: 1px solid #ddd;
+  background-color: rgb(249, 184, 138);
+  border: 1px solid rgb(207, 90, 6);
+  margin-right: 0.2rem;
 }
+
 .pagination > .active > a,
 .pagination > .active > a:focus,
 .pagination > .active > a:hover,
@@ -197,12 +203,15 @@ h2 {
   opacity: 80%;
 }
 
-/* Ambil/Input Gambar */
+/* Ambil/Memasukkan Gambar */
 input[type="file"] {
   margin: 20px;
+  color: rgb(207, 90, 6);
+  text-shadow: 1px 1px 1px whitesmoke;
+  font-size: 15px;
 }
 
-/* footer */
+/* footer/bagian bawah web */
 footer {
   clear: both;
   background-color: rgb(233, 215, 144);

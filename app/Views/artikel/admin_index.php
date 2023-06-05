@@ -1,8 +1,8 @@
 <?= $this->include('template/admin_header'); ?>
 
 <form method="get" class="form-search">
-  <input type="text" name="q" value="<?= $q; ?>" placeholder="Cari data">
-  <input type="submit" value="Cari" class="btn btn-primary">
+  <input type="text" name="q" value="<?= $q; ?>" placeholder="Search your data">
+  <input type="submit" value="Search" class="btn btn-primary">
 </form>
 
 <table class="table">

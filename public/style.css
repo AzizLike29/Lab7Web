@@ -30,6 +30,23 @@ article.entry {
 
 img.image-circle {
   margin-right: 130px;
+  box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.5);
+}
+
+img.image-circle:hover {
+  animation: pulse 1s infinite;
+}
+
+@keyframes pulse {
+  0% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(1.1);
+  }
+  100% {
+    transform: scale(1);
+  }
 }
 
 #container {
