@@ -96,8 +96,54 @@ Passwordnya adalah "admin123"
 
 ![16](https://github.com/AzizLike29/Lab7Web/assets/119909214/9fb4e6a0-4108-4194-9df8-e7e708609ee5)
 
-<h3> 16. Kembali ke tampilan halaman login, selamat mencoba :) </h3>
+<h3> 16. Kembali ke tampilan halaman login </h3>
 
 ![17](https://github.com/AzizLike29/Lab7Web/assets/119909214/32ba8b40-6778-4efe-a5ca-ebf03270209d)
+
+<h2> Praktikum 10: Pagination dan Pencarian </h2>
+
+Selesaikan programnya sesuai Langkah-langkah yang ada. Anda boleh melakukan improvisasi.
+
+<h3> 17. Pilihan penomeran halaman </h3>
+
+Terdapat penomeran halaman yang dapat dipilih apabila menu yang disediakan ada banyak, dan bisa memilih nomer secara urut maka akan tampil menu yang lainnya makanan & minuman.
+
+![18](https://github.com/AzizLike29/Lab7Web/assets/119909214/0f3aef5d-7ab3-4c36-8a35-908170059eec)
+
+lanjut pilih nomer :
+
+![19](https://github.com/AzizLike29/Lab7Web/assets/119909214/ee5fe907-5775-4f00-8ee3-099e67af1e26)
+
+<h3> 18. Pencarian halaman menu makanan & minuman </h3>
+
+Buka folder dan file app/Controllers/Artikel.php lalu ubah pada function admin_index paginate ubah menjadi 10 yang tadinya 1.
+
+1 --> Memperkecil halaman page
+
+10 --> Memperluas halaman page
+
+Kemudian lakukan pencarian dengan kata kunci harus judul makanan & minuman yang harus di cari, contohnya :
+
+![20](https://github.com/AzizLike29/Lab7Web/assets/119909214/56e4c017-5591-45a3-882a-556c182d50b0)
+
+lalu hasil ketika dicari halamannya :
+
+![21](https://github.com/AzizLike29/Lab7Web/assets/119909214/05c47903-25b7-4624-90f7-c91502a67304)
+
+<h3> 19. Menambahkan upload data file </h3>
+
+Selanjutnya, saya menambahkan upload file data/choose file, tambahkan data sesuai keinginan.
+
+![22](https://github.com/AzizLike29/Lab7Web/assets/119909214/3bad40ce-9065-440a-9c5a-93c9126bbb51)
+
+<h3> 20. Data berhasil ditambahkan </h3>
+
+Lalu klik navbar article, data berhasil ditambahkan :)
+
+![23](https://github.com/AzizLike29/Lab7Web/assets/119909214/16d9875a-f0d2-4770-abbd-6e16e1b8cfea)
+
+Data sudah masuk ke dalam database phpmyadmin.
+
+![24](https://github.com/AzizLike29/Lab7Web/assets/119909214/0f89c743-33f0-482a-a888-c66e83b4759f)
 
 <p> Sekian dan Terima Kasih </p>
