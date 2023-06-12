@@ -130,6 +130,10 @@ lalu hasil ketika dicari halamannya :
 
 ![21](https://github.com/AzizLike29/Lab7Web/assets/119909214/05c47903-25b7-4624-90f7-c91502a67304)
 
+<h2> Praktikum 11: Upload File Gambar </h2>
+
+Selesaikan programnya sesuai Langkah-langkah yang ada. Anda boleh melakukan improvisasi.
+
 <h3> 19. Menambahkan upload data file </h3>
 
 Selanjutnya, saya menambahkan upload file data/choose file, tambahkan data sesuai keinginan.
