@@ -150,4 +150,28 @@ Data sudah masuk ke dalam database phpmyadmin.
 
 ![24](https://github.com/AzizLike29/Lab7Web/assets/119909214/0f89c743-33f0-482a-a888-c66e83b4759f)
 
+<h2> Praktikum 12: API (Postman) </h2>
+
+Selesaikan programnya sesuai Langkah-langkah yang ada. Anda boleh melakukan improvisasi.
+
+<h3> 21. Menampilkan semua data (GET) </h3>
+
+![Menampilkan semua data](https://github.com/AzizLike29/Lab7Web/assets/119909214/bdeb93c6-f22e-4020-a21a-0e786781cc3b)
+
+<h3> 22. Menampilkan data spesifik ID </h3>
+
+![Menampilkan data spesifik](https://github.com/AzizLike29/Lab7Web/assets/119909214/65bef0f3-2175-4916-bb13-89c38c98a43b)
+
+<h3> 23. Mengubah data (PUT) </h3>
+
+Tidak ada modelnya
+
+<h3> 24. Menambahkan data (POST) </h3>
+
+![Menambahkan data](https://github.com/AzizLike29/Lab7Web/assets/119909214/0752f8db-b07a-4fdf-ab03-98cb9a772e34)
+
+<h3> 24. Menghapus data (DELETE) </h3>
+
+![Menghapus data](https://github.com/AzizLike29/Lab7Web/assets/119909214/95609c8b-9c86-4018-87b1-a0dfd7cbc46d)
+
 <p> Sekian dan Terima Kasih </p>
