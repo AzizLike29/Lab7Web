@@ -170,7 +170,7 @@ Tidak ada modelnya
 
 ![Menambahkan data](https://github.com/AzizLike29/Lab7Web/assets/119909214/0752f8db-b07a-4fdf-ab03-98cb9a772e34)
 
-<h3> 24. Menghapus data (DELETE) </h3>
+<h3> 25. Menghapus data (DELETE) </h3>
 
 ![Menghapus data](https://github.com/AzizLike29/Lab7Web/assets/119909214/95609c8b-9c86-4018-87b1-a0dfd7cbc46d)
 
